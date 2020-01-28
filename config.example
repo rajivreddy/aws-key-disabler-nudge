@@ -1,0 +1,4 @@
+SOURCE_ADDR=admin@example.com
+TO_ADDR=admin@example.com
+ACCESS_KEY=cccc
+SECRET_ACCESS_KEY=abcd$efgh
